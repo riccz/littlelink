@@ -1,5 +1,7 @@
 # 🔗 LittleLink
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d1d85fdf-0585-4943-a3c6-a607e2c83dcc/deploy-status)](https://app.netlify.com/sites/lucent-sorbet-612e5a/deploys)
+
 ![LittleLink](https://cdn.cottle.cloud/littlelink/social-circle.png)
 
 LittleLink is a lightweight DIY alternative to services like [Linktree](https://linktr.ee)
